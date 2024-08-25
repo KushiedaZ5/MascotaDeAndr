@@ -1,5 +1,5 @@
 .cambiarcolortitulo {
-  color: #a593c2;
+  color: #fae900;
   font-size: 50px;
   text-align: center;
   padding-right: 250px;
@@ -23,7 +23,7 @@ footer {
   text-transform: none;
 }
 .WAU {
-  color: #a593c2;
+  color: #5d00f3;
 }
 .OWP {
   color: #a593c2;
@@ -48,11 +48,11 @@ aside {
 }
 
 body {
-  background-color: bisque;
+  background-color: #bbab97;
   background-image: url(images/pattern.png);
 }
 #mainheader {
-  background-color: #a593c2;
+  background-color: #bbab97;
 }
 
 .Price {

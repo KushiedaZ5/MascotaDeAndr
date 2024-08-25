@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background: url("bg.jpg") no-repeat center center fixed;
+  background-color: #000000;
   background-size: cover;
   display: flex;
   justify-content: center;
@@ -53,7 +53,7 @@ body {
   content: "";
   width: 50px;
   height: 2px;
-  background-color: #66c141;
+  background-color: #978d00;
   position: absolute;
   bottom: -5px;
   left: 50%;
@@ -84,7 +84,7 @@ body {
 
 .form-section button {
   padding: 10px;
-  background-color: #28a745;
+  background-color: #978d00;
   color: white;
   border: none;
   border-radius: 5px;
@@ -94,7 +94,7 @@ body {
 }
 
 .form-section button:hover {
-  background-color: #218838;
+  background-color: #978d00;
 }
 .form-section input::placeholder,
 .form-section textarea::placeholder {
