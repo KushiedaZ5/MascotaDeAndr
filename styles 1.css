@@ -1,9 +1,14 @@
 .cambiarcolortitulo {
-  color: #fae900;
+  color: #ffd700;
   font-size: 50px;
   text-align: center;
   padding-right: 250px;
 }
+.cambiarcolortitulo2 {
+  color: #ffd700;
+  font-size: 35px;
+  text-align: center;
+  padding-right: 250px;}
 footer {
   padding: 10px;
   text-align: left;
@@ -13,6 +18,7 @@ footer {
   width: 100%;
 }
 .letrarticulo {
+  color: #ffffff;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
   word-spacing: 2px;
@@ -23,10 +29,12 @@ footer {
   text-transform: none;
 }
 .WAU {
-  color: #5d00f3;
+  color: #ffd700;
+  font-size: 35px;
+  padding-right: 200px;
 }
 .OWP {
-  color: #a593c2;
+  color: #ffd700;
 }
 .pie {
   color: chocolate;
@@ -48,20 +56,29 @@ aside {
 }
 
 body {
-  background-color: #bbab97;
+  background-color: #0f0e0e;
   background-image: url(images/pattern.png);
 }
 #mainheader {
-  background-color: #bbab97;
+  background-color: #ffd700;
 }
 
 .Price {
   font-family: "Trebuchet MS", Helvetica, sans-serif;
   font-size: 20px;
 }
-.PIEGRANDE {
-  border: solid 5px burlywood;
+.productima {
+  border: 3px solid #ffd700;
+  max-width: 80%;
+  display: flex;
+justify-content: center;
+align-items: center;
+width: 100%;
 }
-.Bethanygrande {
-  border: solid 5px rgb(185, 117, 117);
+  
+.productima -image-container {
+display: flex;
+justify-content: center;
+align-items: center;
+width: 100%;
 }
